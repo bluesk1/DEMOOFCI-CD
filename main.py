@@ -1,3 +1,3 @@
-def hello_world():
-  print("helloworld)
-hello_world()
+def hello_world(x):
+  print(x)
+hello_world("helloworld")
